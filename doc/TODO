@@ -1,0 +1,2 @@
+* Get a working random walk array.
+* Add models from a straight random walk, and a leaky competing accumulator model.
